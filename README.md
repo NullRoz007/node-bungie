@@ -37,6 +37,7 @@ Keep in mind that you will need to supply an X-API-Key header to each Wrapper ob
 ---
 <h2>Examples</h2>
 Get Account Data:
+
 ```js
 var destiny = require('./DestinyService.js');
 destiny["X-API-Key"] = "APIKEY";
