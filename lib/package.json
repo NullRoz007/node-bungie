@@ -1,0 +1,12 @@
+{
+  "author": "Ben Spencer",
+  "name": "autowrapper",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "bin": {
+    "autowrapper": "./index.js"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "author": "NullRoz007",
+  "name": "node-destiny",
+  "version": "0.0.1",
+  "dependencies": {
+    "https": "^1.0.0",
+    "pem": "^1.9.4",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "prepare": "npm install ./lib/ -g",
+    "massbuild": "node massbuild.js",
+  }
+}
